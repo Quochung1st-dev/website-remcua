@@ -1,0 +1,239 @@
+.wrap {
+    margin: 4px 15px 0 0;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 1.4em;
+}
+
+.ic{
+    background-image: url("../assets/favicon.png")
+}
+
+h2 {
+    margin-top:15px;
+    background-color:#fff;
+    text-align:center;
+    border-radius:20px;
+
+}
+
+.left {
+    width:100%;
+    float:left;
+}
+.metabox-holder1,.metabox-holder2,.metabox-holder3,.metabox-holder4,.metabox-holder0 {
+    padding-top: 10px;
+
+
+}
+
+.postbox1,.postbox2,.postbox3,.postbox4,.postbox0{
+    background: linear-gradient(to top, #F5F5F5, #F9F9F9) repeat scroll 0 0 #F5F5F5;
+
+
+    border-style: solid;
+    border-width: 1px;
+    line-height: 1;
+    margin-bottom: 20px;
+    padding: 0;
+    border-color: #DFDFDF;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 0 #FFFFFF inset;
+}
+
+h3 {
+    cursor: move;
+    color: #464646;
+    border-bottom-color: #DFDFDF;
+    box-shadow: 0 1px 0 #FFFFFF;
+    text-shadow: 0 1px 0 #FFFFFF;
+    background: linear-gradient(to top, #ECECEC, #F9F9F9) repeat scroll 0 0 #F1F1F1;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1;
+    margin: 0;
+    padding: 7px 10px;
+    -moz-user-select: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+}
+.inside1,.inside2,.inside3,.inside4,.inside0 {
+
+    line-height: 1.4em;
+    padding: 0 12px 0 10px;
+}
+.ad {
+    cursor: move;
+    color: #464646;
+    border-bottom-color: #DFDFDF;
+    box-shadow: 0 1px 0 #FFFFFF;
+    text-shadow: 0 1px 0 #FFFFFF;
+    background: linear-gradient(to top, #ECECEC, #F9F9F9) repeat scroll 0 0 #F1F1F1;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1;
+    margin: 0;
+    padding: 7px 10px;
+    -moz-user-select: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+    color:#e8426d;
+}
+label {
+    font-size:12pt;
+    font-family:Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+
+}
+input[type="text"].text_general {
+    font-size:12pt;
+    height:30px;
+    width:250px;
+    margin-left:233px;
+    display:inline-block;
+
+}
+input[type="text"].text_general1 {
+    font-size:12pt;
+    height:30px;
+    width:250px;
+    margin-left:222px;
+    display:inline-block;
+
+}
+
+input[type="text"].text_general2 {
+    font-size:12pt;
+    height:30px;
+    width:250px;
+    margin-left:242px;
+    display:inline-block;
+
+}
+
+input[type="text"]{
+    font-size:12pt;
+    height:30px;
+    width:250px;
+}
+input [type="radio"].radiobox_general {
+    font-size:12pt;
+}
+input [type="radio"].rb0 {
+    margin-left:396px;
+}
+input[type="checkbox"].checkbox_general {
+    margin-left:224px;
+}
+.rbg {
+    position:relative;
+    margin-left:210px;
+}
+.rbg0 {
+    position:relative;
+    margin-left:5px;
+
+}
+input[type="radio"].rgbw {
+    position:relative;
+    margin-left:352px;
+}
+
+input[type="checkbox"].cb {
+    position:relative;
+    margin-left:167px;
+}
+input[type="checkbox"].cbgw {
+    position:relative;
+    margin-left:351px;
+}
+.cbg {
+    position:relative;
+    margin-left:5px;
+
+}
+.cbg0 {
+    position:relative;
+    margin-left:5px;
+}
+input[type="button"].button-secondary {
+    position:relative;
+    left:273px;
+}
+
+input[type="button"].button-primary {
+    position:relative;
+    left:291px;
+}
+
+.metabox-holder_lp{
+    padding-top: 10px;
+    width:20px;
+
+
+}
+.postbox_lp {
+    background: linear-gradient(to top, #F5F5F5, #F9F9F9) repeat scroll 0 0 #F5F5F5;
+    min-width: 255px;
+    border-style: solid;
+    border-width: 1px;
+    line-height: 1;
+    margin-bottom: 20px;
+    padding: 0;
+    border-color: #DFDFDF;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 0 #FFFFFF inset;
+    border:3px solid #e8426d;
+
+}
+.inside_lp {
+    line-height: 1.4em;
+    padding: 0 12px 0 10px;
+}
+
+.metabox-holder_latest{
+    padding-top: 10px;
+    width:20px;;
+
+
+}
+.postbox_latest {
+    background: linear-gradient(to top, #F5F5F5, #F9F9F9) repeat scroll 0 0 #F5F5F5;
+    min-width: 255px;
+    border-style: solid;
+    border-width: 1px;
+    line-height: 1;
+    margin-bottom: 20px;
+    padding: 0;
+    border-color: #DFDFDF;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 0 #FFFFFF inset;
+    border:3px solid #6bbd00;
+
+}
+.inside_latest {
+    line-height: 1.4em;
+    padding: 0 12px 0 10px;
+}
+
+input[type="radio"].rb {
+    position:relative;
+    margin-left:203px;
+}
+
+.right {
+    float:right;
+    width:20%;
+
+}
+input[type="submit"].button-primary {
+    margin-left:393px;
+}
+.form-1{
+    margin-top:-52px;
+    margin-left:305px;
+}
+.thanks_contact {
+    margin-left:243px;
+}
